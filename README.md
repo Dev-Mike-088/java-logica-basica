@@ -8,5 +8,5 @@ Conteúdos abordados:
 - Laços de repetição
 - Entrada e saída de dados
 
-Objetivo
+Objetivo:
 Fixar lógica de programação e fundamentos da linguagem Java.
